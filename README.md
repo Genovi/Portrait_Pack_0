@@ -1,4 +1,6 @@
 # Portrait_Pack_0
 AI generated portraits designed for cohesion with IWD/BG Infinity Engine titles' vanilla portraits.
 
+Imgur Album Preview: https://imgur.com/gallery/portrait-pack-0-preview-WKQ2oLM
+
 These portraits were generated with limited experience and limited resources, but I was happy with the result for myself and figured I would share. In my opinion there's a lack of diversity here as well as some identity redudancy, but as I said, truly the result of my playground environment. I didn't attempt this lazily, however, and I put in a great deal of effort for the results. These images went through multiple iterations before settling on this final algorithmic pass. This pack mostly features characters reminiscent of elves and humans, with a few passable for half-orcs and Aasimar, dependent upon interpretation. The bias of the results are not my own, as much of my prompting was generalized so that it might produce diverse outcomes. The result of this generalization strategy is a homogeny of expression. Most the characters express themselves in neutrality, apathy, and nerve. If you want bubbly characters, this pack is not for you. I find the bleakness on display with this style works well with the bleakness of the D&D canonical settings during the time frame of these games. I hope you enjoy.
